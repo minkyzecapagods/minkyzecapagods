@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ programando desde 2023<br>📚  cursando BTI na UFRN desde 2024<br>🎯 áreas de interesse: análise de dados, cybersegurança e automação de processos.<br>👔 busco um estágio/emprego de meio período</p>
+<p align="left">✨ programando desde 2023<br>📚  cursando BTI na UFRN desde 2024<br>🎯 áreas de interesse: análise de dados, cybersegurança e programação funcional.<br>👔 busco um estágio/emprego de meio período</p>
 
 ###
 
